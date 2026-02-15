@@ -1,0 +1,14 @@
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.AssemblyInfoInputs.cache
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.AssemblyInfo.cs
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.csproj.CoreCompileInputs.cache
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\bin\Debug\net9.0\ProjektnaNaloga.exe
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\bin\Debug\net9.0\ProjektnaNaloga.deps.json
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\bin\Debug\net9.0\ProjektnaNaloga.runtimeconfig.json
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\bin\Debug\net9.0\ProjektnaNaloga.dll
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\bin\Debug\net9.0\ProjektnaNaloga.pdb
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.dll
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\refint\ProjektnaNaloga.dll
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.pdb
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ProjektnaNaloga.genruntimeconfig.cache
+C:\Users\Tinkara Grum\source\repos\ProjektnaNaloga\obj\Debug\net9.0\ref\ProjektnaNaloga.dll
